@@ -4,7 +4,8 @@ public class test1 {
 	String sb_You;
 	String name2 = "pig" ;
 	int num ;
-	
+
 	public void methodA() {};
+	String suckOff;
 
 }
