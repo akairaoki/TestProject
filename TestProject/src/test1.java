@@ -7,5 +7,5 @@ public class test1 {
 
 	public void methodA() {};
 	String suckOff;
-
+	String aa;
 }
